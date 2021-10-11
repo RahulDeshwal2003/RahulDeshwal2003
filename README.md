@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulDeshwal2003
 - 👀 I’m interested in C++ programming
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me Email: rahuldeshwal2003@gmail.com
 
